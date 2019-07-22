@@ -6,4 +6,12 @@ black
 gold
 silver
 grey
+blue
+ivory
+bronze
+green
+blonde
+lime
+brown
+orange
 
