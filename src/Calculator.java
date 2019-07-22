@@ -1,4 +1,5 @@
 public class Calculator {
+
     //This is a very usefulful  method
     public  static  double add(double num1,double num2){
 
