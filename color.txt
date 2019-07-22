@@ -17,3 +17,7 @@ orange
 miami blue
 space grey
 lime
+light pink
+dark orange
+light green
+dark green
