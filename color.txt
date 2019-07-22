@@ -23,5 +23,3 @@ light green
 dark green
 light red
 dark red
-green light
-grey dark
