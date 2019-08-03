@@ -13,6 +13,7 @@ public static double multiply(double num1,double num2){
     double result1 = num1*num2;
     return result1;
   //hi
+    //buy
 }
 
 
